@@ -38,7 +38,7 @@
           Nesta etapa, é importante colher (o que o usuário precisa), pois é por meio dessas necessidades
           que as próximas etapas de todo o processo poderão ser cumpridas.
 
-          Nessa etapa que são levantadas questões importantes como:
+          Nessa etapa que são levantadas questões importantes como::
 
 
 
